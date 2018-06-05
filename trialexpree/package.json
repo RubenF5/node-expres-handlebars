@@ -1,0 +1,17 @@
+{
+  "name": "trialexpree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "install.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "ruben",
+  "license": "ISC",
+  "dependencies": {
+    "express-handlebars": "^3.0.0"
+  }
+}
