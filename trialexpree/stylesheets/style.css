@@ -1,11 +1,20 @@
-/* line 2, ../sass/style.scss */
+/* line 3, ../sass/style.scss */
 .rojito {
   color: red;
   background-color: black;
 }
 
-.nav-style{
-	background-color: #b3069;
+/* line 9, ../sass/style.scss */
+.nav-style {
+  background-color: #9867C5;
 }
 
-c700d1
+/* line 13, ../sass/style.scss */
+img {
+  width: 124px;
+}
+
+/* line 16, ../sass/style.scss */
+.anclas {
+  padding-left: 650px;
+}
